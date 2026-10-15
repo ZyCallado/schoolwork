@@ -1,5 +1,3 @@
-package facadepattern;
-
 import java.util.Scanner;
 
 public class HotelApp {
