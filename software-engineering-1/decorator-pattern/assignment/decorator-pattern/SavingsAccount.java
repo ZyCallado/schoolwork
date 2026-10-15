@@ -1,5 +1,3 @@
-package decoratorpattern;
-
 public class SavingsAccount implements BankAccount {
     private String accountNumber;
     private String accountName;
