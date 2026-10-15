@@ -1,5 +1,3 @@
-package facadepattern;
-
 public class HouseKeeping implements HotelService {
     private int roomNumber;
 
