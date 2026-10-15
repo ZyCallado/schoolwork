@@ -69,5 +69,3 @@ Description of the following methods:
 </ol>
 
 BankAcountDecorator must be an interface.
-<br><br>
-Follow instructions.  You are not allowed to insert other methods except what is stated in the diagram (setters and getters are allowed).
