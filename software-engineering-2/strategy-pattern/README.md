@@ -56,4 +56,4 @@ public class Character {
 ```
 
 ## UML Class Diagram
-![alt text](https://github.com/ZyCallado/lab-assignment-1-strategy-pattern/blob/main/LabAssign1_UML-Class-Diagram.png)
+![alt text](https://github.com/ZyCallado/schoolwork/blob/main/software-engineering-2/strategy-pattern/LabAssign1_UML-Class-Diagram.png)
