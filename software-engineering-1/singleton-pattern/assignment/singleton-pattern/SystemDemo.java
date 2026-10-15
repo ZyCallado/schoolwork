@@ -1,5 +1,3 @@
-package singletonpattern;
-
 public class SystemDemo {
     public static void main(String[] args) {
         HelpDeskStation desk1 = new HelpDeskStation("Desk 1");
