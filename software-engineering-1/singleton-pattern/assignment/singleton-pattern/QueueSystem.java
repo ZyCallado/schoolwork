@@ -1,5 +1,3 @@
-package singletonpattern;
-
 public class QueueSystem {
     private static QueueSystem instance;
     private int currNum = 0;
