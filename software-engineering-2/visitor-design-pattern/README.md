@@ -7,4 +7,3 @@ Implement a visitor design pattern approach. You must show the different element
 
 ## UML Class Diagram
 ![alt text](https://github.com/ZyCallado/schoolwork/blob/main/software-engineering-2/visitor-design-pattern/LabAssign4_UML-Class-Diagram.png)
-d
