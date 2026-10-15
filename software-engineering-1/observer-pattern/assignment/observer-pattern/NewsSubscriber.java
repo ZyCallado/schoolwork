@@ -1,5 +1,3 @@
-package observerpattern;
-
 public class NewsSubscriber implements Subscriber{
     private String name;
 
