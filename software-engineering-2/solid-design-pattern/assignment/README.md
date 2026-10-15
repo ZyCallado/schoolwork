@@ -11,4 +11,4 @@ Your solution should not violate other SOLID principles.
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
 ## UML Class Diagram
-![alt text](https://github.com/ZyCallado/lab-assignment-6-solid-design-pattern/blob/main/LabAssign6_UML-Class-Diagram.png)
+![alt text](https://github.com/ZyCallado/schoolwork/blob/main/software-engineering-2/solid-design-pattern/assignment/LabAssign6_UML-Class-Diagram.png)
