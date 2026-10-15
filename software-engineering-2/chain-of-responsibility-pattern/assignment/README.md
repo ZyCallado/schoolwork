@@ -18,4 +18,4 @@ Requirements:
 </ol>
 
 ## UML Class Diagram
-![alt text](https://github.com/ZyCallado/lab-assignment-3-chain-of-responsibility-design-pattern/blob/main/LabAssign3_UML-Class-Diagram.png)
+![alt text](https://github.com/ZyCallado/schoolwork/blob/main/software-engineering-2/chain-of-responsibility-pattern/assignment/LabAssign3_UML-Class-Diagram.png)
