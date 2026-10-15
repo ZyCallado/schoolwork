@@ -1,5 +1,3 @@
-package observerpattern;
-
 public class NewsSubscriptionService {
     public static void main(String[] args) {
         News news = new News();
