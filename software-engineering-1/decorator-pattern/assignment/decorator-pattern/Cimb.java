@@ -1,5 +1,3 @@
-package decoratorpattern;
-
 public class Cimb {
     public static void main(String[] args) {
 
