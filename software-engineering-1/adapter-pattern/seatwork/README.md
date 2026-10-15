@@ -14,4 +14,4 @@ LibrarySystemAdapter - An adapter for integrating the library management system 
 
 ## UML Class Diagram
 
-![alt text](https://github.com/ZyCallado/adapterPatternSeatwork/blob/main/LabSeatwork3_UMLClass-Diagram.png)
+![alt text](https://github.com/ZyCallado/schoolwork/blob/main/software-engineering-1/adapter-pattern/seatwork/LabSeatwork3_UML-Class-Diagram.png)
