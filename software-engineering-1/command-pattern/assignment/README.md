@@ -12,4 +12,4 @@ Your challenge is to apply a design pattern that provides a flexible and scalabl
 
 ## UML Class Diagram
 
-![alt text](https://github.com/ZyCallado/commandPattern/blob/main/LabAssign2_UML-Class-Diagram.png)
+![alt text](https://github.com/ZyCallado/schoolwork/blob/main/software-engineering-1/command-pattern/assignment/LabAssign2_UML-Class-Diagram.png)
