@@ -67,4 +67,4 @@ Current System: The system currently relies on conditional statements within the
 </ol>
 
 ### UML Class Diagram
-![alt text](https://github.com/ZyCallado/schoolwork/blob/main/software-engineering-2/state-design-pattern/LabAssign2_UML-Class-Diagram.png)
+![alt text](https://github.com/ZyCallado/schoolwork/blob/main/software-engineering-2/state-design-pattern/assignment/LabAssign2_UML-Class-Diagram.png)
