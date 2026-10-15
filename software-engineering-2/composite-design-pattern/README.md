@@ -30,4 +30,4 @@ New Era University is composed of various organizational units. These units can 
 
 
 ## UML Class Diagram
-![alt text](https://github.com/ZyCallado/lab-assignment-8-composite-design-pattern/blob/main/LabAssign8_UML-Class-Diagram.png)
+![alt text](https://github.com/ZyCallado/schoolwork/blob/main/software-engineering-2/composite-design-pattern/LabAssign8_UML-Class-Diagram.png)
