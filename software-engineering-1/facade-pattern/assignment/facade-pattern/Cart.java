@@ -1,5 +1,3 @@
-package facadepattern;
-
 public class Cart implements HotelService {
     private int numberOfCarts;
 
