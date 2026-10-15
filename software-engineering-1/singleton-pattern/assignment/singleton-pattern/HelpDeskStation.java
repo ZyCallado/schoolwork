@@ -1,5 +1,3 @@
-package singletonpattern;
-
 public class HelpDeskStation {
     private String deskName;
     private QueueSystem queueSystem;
