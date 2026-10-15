@@ -1,5 +1,3 @@
-package facadepattern;
-
 public class Valet implements HotelService {
     private String plateNumber;
 
