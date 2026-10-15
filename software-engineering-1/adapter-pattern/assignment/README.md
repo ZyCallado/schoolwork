@@ -24,4 +24,4 @@ SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard
 
 ## UML Class Diagram
 
-![alt text](https://github.com/ZyCallado/adapterPatternAssign/blob/main/LabAssign3_UMLClass-Diagram.png)
+![alt text](https://github.com/ZyCallado/schoolwork/blob/main/software-engineering-1/adapter-pattern/assignment/LabAssign3_UML-Class-Diagram.png)
