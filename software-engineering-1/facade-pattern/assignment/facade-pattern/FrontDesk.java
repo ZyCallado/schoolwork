@@ -1,5 +1,3 @@
-package facadepattern;
-
 public class FrontDesk {
     private Valet valet;
     private HouseKeeping houseKeeping;
