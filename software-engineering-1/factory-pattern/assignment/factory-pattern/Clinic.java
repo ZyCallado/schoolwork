@@ -1,5 +1,3 @@
-package factoryPattern;
-
 import java.util.Scanner;
 
 public class Clinic {
