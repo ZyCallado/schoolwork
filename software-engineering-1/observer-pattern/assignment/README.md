@@ -32,4 +32,4 @@ Ensure that the implementation follows object-oriented design principles and pro
 
 ## UML Class Diagram
 
-![alt text](https://github.com/ZyCallado/observerPattern/blob/main/LabAssign6_UMLClassDiagram.png)
+![alt text](https://github.com/ZyCallado/schoolwork/blob/main/software-engineering-1/observer-pattern/assignment/LabAssign6_UML-Class-Diagram.png)
