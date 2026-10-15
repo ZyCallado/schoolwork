@@ -55,9 +55,6 @@ public class Cimb {
 	}
 }
 ```
-You should display the following output:
-
-<img width="824" height="763" alt="image" src="https://github.com/user-attachments/assets/4b2dfd93-6d18-4680-8486-8864561ecfdf" />
 
 Description of the following methods:
 <ol>
@@ -74,7 +71,3 @@ Description of the following methods:
 BankAcountDecorator must be an interface.
 <br><br>
 Follow instructions.  You are not allowed to insert other methods except what is stated in the diagram (setters and getters are allowed).
-
-## UML Class Diagram
-
-<img width="797" height="569" alt="image" src="https://github.com/user-attachments/assets/e859ecf5-591c-40f6-845e-93f6bb0658fd" />
