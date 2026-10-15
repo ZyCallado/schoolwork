@@ -1,5 +1,3 @@
-package observerpattern;
-
 import java.util.*;
 
 public class News implements NewsAgency {
